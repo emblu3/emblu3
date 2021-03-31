@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @emblu3
-- 📫 How to reach me ...
+- 👨🏻‍💻 Currently learning: Javascript 
+- 📫 How to reach me: [REDACTED]
 
 <!---
 emblu3/emblu3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
